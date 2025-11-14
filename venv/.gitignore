@@ -1,0 +1,29 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Python venv
+.venv
+venv/
+env/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE config
+.vscode/
+.idea/
+
+# Byte-compiled files
+*.sqlite3
+
+# MyPy / Pytest
+.mypy_cache/
+.pytest_cache/
