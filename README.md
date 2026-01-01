@@ -21,3 +21,5 @@ You can run the application using `uvicorn`, an ASGI server.
 ### FastAPI Key Concepts
 -   **Path Operation**: In FastAPI, what is commonly called a "route" or an "endpoint" in other frameworks is referred to as a *path operation*.
 -   **Path Operation Function**: The function that handles the request for a specific path operation. This is similar to what might be called a "controller" or a "view function" in other frameworks.
+
+# Fast-api automatically parse into JSON
